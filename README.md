@@ -1,5 +1,6 @@
-For this activity I decided to look over 3 different types of anger and how each one of those angers worked.
-For the descriptions on the angers in the site I noticed that many words were used more than once and the sentences were a little choppy, so I fixed them up.
-I decided to make a CSS file for the article to shorten the code of the site and break uyp the source code into 2 seperate files to make it easier for the user to read. 
-This code makes it easier for the reader to understand the code without getting drowned in the words of the original code itself. 
-I also have contained the original code from the site in this activity to let the readers use it as a reference point and backtrack if needed. 
+For this activity I took an existing code and modified it using HTML and CSS.
+I modified this existing code to check for any repititions or redundancy in the code and scoped out where code could have been omitted without changing the outcome of the code.
+I broke up the code using identification tags and class tags and made another file using CSS.
+CSS would outline the whole dynamic and major parts of the code and would shorten up the existing code so users wouldn't see too much going on at once.
+This code includes 4 identification tags with subclasses, subheadings, and paragraphs used to describe the ID tags 
+This code also describes how you can utilize web search engines and social media to build a reputation for your brand and describing the benefits of doing so.
